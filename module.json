@@ -1,0 +1,45 @@
+{
+  "id": "pf-magical-girl",
+  "title": "PF Magical Girl",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf1",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Magical Girl Homebrew Class",
+  "authors": [
+    {
+      "name": "GhostShotIV",
+      "discord": "GhostShotIV",
+      "email": "ghostshotiv@gmail.com",
+      "flags": {}
+    },
+    {
+      "name": "Fenris",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "magical-girl",
+      "label": "Magical Girl",
+      "path": "packs/magical-girl",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf1",
+      "flags": {}
+    }
+  ]
+}
