@@ -41,5 +41,8 @@
       "system": "pf1",
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://github.com/GhostShotIV/pf-magical-girl",
+  "manifest": "https://raw.githubusercontent.com/GhostShotIV/pf-magical-girl/main/module.json",
+  "download": "https://github.com/GhostShotIV/pf-magical-girl/releases/download/zip/pf-magical-girl.zip"
 }
